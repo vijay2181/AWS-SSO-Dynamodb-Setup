@@ -1,0 +1,1 @@
+# AWS-SSO-Dynamodb-Access
